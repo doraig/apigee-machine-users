@@ -1,4 +1,4 @@
-# Docker file for running creating apigee machine users.
+# Docker file for creating apigee machine users.
 
 - This project basically helps any one run the docker image to create the apigee machine user
 - You will need to be authenticated to apigee in order to create the user.
